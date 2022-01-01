@@ -1,6 +1,6 @@
 # UAV Communication Tools
 ## Introduction
-This toolkit is (will be) a simple set of inter-ROS-communication programs. It provides data & instruction exchanging between ROS systems by using network protocols.
+This toolkit is (will be) a simple set of inter-ROS-communication programs, mainly designed for inter-UAV communications. It provides data & instruction exchanging between ROS systems by using network protocols.
 
 By now, only the first version is presented.
 
